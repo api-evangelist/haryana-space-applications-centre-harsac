@@ -64,5 +64,16 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Haryana Space Applications Centre (HARSAC) is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://hsac.org.in
+Haryana Space Applications Centre (HARSAC) is a government agency under the Citizen Resources Information Department of the Government of Haryana, India. It provides remote sensing, unmanned aerial vehicle (UAV) mapping, and geographic information system (GIS) services, including the OneMap Haryana platform for GIS data and mapping solutions.
+
+**Areas:** Government · GIS · Remote Sensing · UAV · Haryana · Company
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://hsac.org.in)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/haryana-space-applications-centre-harsac/](https://apis.io/providers/haryana-space-applications-centre-harsac/).
